@@ -60,6 +60,9 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 ![Screenshot 2025-03-26 104435](https://github.com/user-attachments/assets/47ef37d0-105e-4682-8904-9be5b35151ec)
 
+![Screenshot 2025-04-25 133702](https://github.com/user-attachments/assets/ead45dc4-ed27-460a-8bee-88fc2f0ef960)
+
+
 
 ### 2. Policy, Value function and success rate for the Improved Policy
 
@@ -68,6 +71,10 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 
 ![Screenshot 2025-03-26 104536](https://github.com/user-attachments/assets/b6a679c6-9974-40dd-965f-eb16c654da53)
+
+![Screenshot 2025-04-25 134201](https://github.com/user-attachments/assets/f7fa45e7-56d8-44ff-94b9-e28a82572120)
+
+![Screenshot 2025-04-25 134401](https://github.com/user-attachments/assets/1c3ce26b-42c5-4b2c-9d1a-70d8f03d298d)
 
 
 
@@ -79,8 +86,8 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 ![Screenshot 2025-03-26 112453](https://github.com/user-attachments/assets/bd2d42af-cabb-4314-af3d-eb5e9679925c)
 
+![Screenshot 2025-04-25 134249](https://github.com/user-attachments/assets/76539487-d33e-4298-ab43-a0a8e9613727)
 
-![Screenshot 2025-03-26 112502](https://github.com/user-attachments/assets/d91ef13e-da77-4eeb-a891-f92f3a32ab07)
 
 
 
